@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Sai Charan
 
-<!--
-**saicharanjanga/saicharanjanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **AI/ML Engineer** & **Full-Stack Software Engineer** with **5+ years** of experience
 
-Here are some ideas to get you started:
+Currently working as an **AI/ML Engineer** — migrating Java projects to modern versions
+and building intelligent systems across **fintech, healthcare, and enterprise** platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Languages:** Java · Python  
+🧠 **AI/ML:** PyTorch · TensorFlow · LangChain · LLMs · Agentic AI  
+⚙️ **Backend:** Spring Boot · Microservices · REST · GraphQL  
+🌐 **Frontend:** React · TypeScript · Redux  
+☁️ **DevOps:** AWS · Azure · Docker · Kubernetes · CI/CD  
+
+🎓 M.S. Computer & Information Sciences — Southern Arkansas University  
+🏅 AWS Certified Solutions Architect · Oracle Cloud AI Foundations  
+
+📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/charan-reddiee-71264a3b0/) · [Email](mailto:saicharanreddy0607@gmail.com)
+
+
